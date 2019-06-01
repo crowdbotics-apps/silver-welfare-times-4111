@@ -1,0 +1,3 @@
+rootProject.name = 'silver_welfare_times_4111'
+
+include ':app'

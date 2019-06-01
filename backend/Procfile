@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT silver_welfare_times_4111.wsgi:application
